@@ -2,7 +2,7 @@
 Django tutorial rest framework
 
 http://www.django-rest-framework.org/tutorial/quickstart/
-`````````````````````````````````````````````````````````````````````````````````````````````````````
+
 # [Django REST framework][docs]
 
 [![build-status-image]][travis]
